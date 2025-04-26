@@ -12,38 +12,38 @@
 
 <div class="ProductList pc">
 	<div class="ProductList2">
-		<div class="list1"><a href="#BH70"><span>NE200IS</span><br>インパクトクラッシャ<br />/ スクリーン​</a></div>
+		<div class="list1"><a href="#NE200IS"><span>NE200IS</span><br>インパクトクラッシャ<br />/ スクリーン​</a></div>
 		<div class="line-vertical1"></div>
-		<div class="list2"><a href="#RC4228H"><span>NEBF75</span><br>ベルトフィーダ</a></div>
+		<div class="list2"><a href="#NEBF75"><span>NEBF75</span><br>ベルトフィーダ</a></div>
 		<div class="line-vertical2"></div>
-		<div class="list3"><a href="#NAS900"><span>NE100JP</span><br>ジョークラッシャ​</a></div>
+		<div class="list3"><a href="#NE100JP"><span>NE100JP</span><br>ジョークラッシャ​</a></div>
 		<div class="line-vertical3"></div>
-		<div class="list4"><a href="#MSD700"><span>BH70</span><br>バケットハンマ​</a></div>
+		<div class="list4"><a href="#BH70"><span>BH70</span><br>バケットハンマ​</a></div>
 		<div class="line-vertical4"></div>
-		<div class="list5"><a href="#live"><span>MSD700</span><br>マイクロ建機</a></div>
+		<div class="list5"><a href="#MSD700"><span>MSD700</span><br>マイクロ建機</a></div>
 	</div>
 </div>
 
 <div class="ProductListsp sp">
 	<div class="ProductListsp2">
 		<hr>
-		<div class="list1sp"><a href="#BH70sp">
+		<div class="list1sp"><a href="#NE200ISsp">
 				<div class="list1sptext"><span>NE200IS</span><br>インパクトクラッシャ/ スクリーン</div>
 			</a></div>
 		<hr>
-		<div class="list2sp"><a href="#RC4228Hsp">
+		<div class="list2sp"><a href="#NEBF75sp">
 				<div class="list2sptext"><span>NEBF75</span><br>ベルトフィーダ</div>
 			</a></div>
 		<hr>
-		<div class="list3sp"><a href="#NAS900sp">
-				<div class="list3sptext"><span>NE100J</span><br>ジョークラッシャ</div>
+		<div class="list3sp"><a href="#NE100JPsp">
+				<div class="list3sptext"><span>NE100JP</span><br>ジョークラッシャ</div>
 			</a></div>
 		<hr>
-		<div class="list4sp"><a href="#MSD700sp">
+		<div class="list4sp"><a href="#BH70sp">
 				<div class="list4sptext"><span>BH70</span><br>バケットハンマ</div>
 			</a></div>
 		<hr>
-		<div class="list5sp"><a href="#livesp">
+		<div class="list5sp"><a href="#MSD700sp">
 				<div class="list5sptext"><span>MSD700</span><br>マイクロ建機</div>
 			</a></div>
 		<hr>
@@ -68,7 +68,7 @@
 			<h1>Product</h1>
 		</div>
 		<div class="Productmenu pc">
-			<div class="NE100JB" id="BH70">
+			<div class="NE100JB" id="NE200IS">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -102,11 +102,11 @@
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
-			</div><!------------------class="BH70 pc" end------------------------>
+			</div><!------------------class="NE200IS pc" end------------------------>
 
 			<div class="mkspace"></div>
 
-			<div class="NE200HBJ" id="RC4228H">
+			<div class="NE200HBJ" id="NEBF75">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -141,11 +141,11 @@
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
-			</div><!------------------class="RC4228 pc" end------------------------>
+			</div><!------------------class="NEBF75 pc" end------------------------>
 
 			<div class="mkspace"></div>
 
-			<div class="NAS900" id="NAS900">
+			<div class="NAS900" id="NE100JP">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -176,7 +176,45 @@
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
-			</div><!------------------class="NAS900 pc" end------------------------>
+			</div><!------------------class="NE100JP pc" end------------------------>
+
+			<div class="mkspace"></div>
+
+			<div class="NE100JB" id="BH70">
+				<img src="./img/machine_background.png" />
+
+				<div class="sizeofcontent">
+
+					<h1>BH70</h1>
+					<h2>油圧ショベル用 多用途アタッチメント</h2>
+					<div class="video">
+						<h5>製品動画</h5>
+					</div>
+
+					<div class="ytube">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<a href="https://youtu.be/IAUZ5w8ca-E?si=HN8rcanyDFhneUBy" data-lity></a>
+					</div>
+
+					<div class="cata">
+						<h5>カタログ</h5>
+					</div>
+					<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
+					<div class="pics">
+						<div class="pics1"><img data-lity src="./img/BH70(色付き_左面_2).jpg" /></div>
+						<div class="pics2"><img data-lity src="./img/BH70(色付き_右面_2).jpg" /></div>
+						<div class="pics3"><img data-lity src="./img/BH70(色付き_背面_2).jpg" /></div>
+						<div class="pics4"><img data-lity src="./img/BH70(色付き_上面_2).jpg" /></div>
+					</div>
+					<div class="spec">
+						<h5>仕様表</h5>
+					</div>
+					<div class="specimg"><img data-lity src="./img/bh70_speck.jpg" /></div>
+					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+				</div>
+			</div><!------------------class="BH70 pc" end------------------------>
 
 			<div class="mkspace"></div>
 
@@ -221,6 +259,107 @@
 		</div><!--------------------------------------------------------------------------------------class="Productmenu pc" end-------------------------------------------------------------------------------------------------------------------->
 
 		<div class="Productmenusp sp">
+			<div class="NE100JBsp" id="NE200ISsp">
+				<img src="./img/machine_background_smartphone.png" />
+				<h1>BH70</h1>
+				<h2>油圧ショベル用　多様アタッチメント</h2>
+				<div class="video">
+					<h5>製品動画</h5>
+				</div>
+
+				<div class="ytube">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+
+				<div class="cata">
+					<h5>カタログ</h5>
+				</div>
+				<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
+				<div class="pics">
+					<div class="pics1"><img src="./img/BH70(色付き_右面_2).jpg" /></div>
+					<div class="pics2"><img src="./img/BH70(色付き_左面_2).jpg" /></div>
+					<div class="pics3"><img src="./img/BH70(色付き_上面_2).jpg" /></div>
+					<div class="pics4"><img src="./img/BH70(色付き_背面_2).jpg" /></div>
+				</div>
+				<div class="spec">
+					<h5>仕様表</h5>
+				</div>
+				<div class="specimg"><img src="./img/bh70_speck.jpg" /></div>
+				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
+					  ■・・・・・・・・・・・・....・・・<br>
+					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+
+			</div><!------------------class="NE200IS sp" end------------------------>
+
+			<div class="mkspace"></div>
+
+			<div class="NE200HBJsp" id="NEBF75sp">
+				<img src="./img/machine_background_smartphone.png" />
+				<h1>RC4228H</h1>
+				<h2>ジョークラッシャー</h2>
+				<div class="video">
+					<h5>製品動画</h5>
+				</div>
+
+				<div class="ytube">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+
+				<div class="cata">
+					<h5>カタログ</h5>
+				</div>
+				<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<div class="pic"><img src="./img/RC4228_斜め.png" /></div>
+				<div class="pics">
+					<div class="pics1"><img src="./img/RC4228_左面.jpg" /></div>
+					<div class="pics2"><img src="./img/RC4228_右面.jpg" /></div>
+					<div class="pics3"><img src="./img/RC4228_前面.jpg" /></div>
+					<div class="pics4"><img src="./img/RC4228_背面.jpg" /></div>
+				</div>
+				<div class="spec">
+					<h5>仕様表</h5>
+				</div>
+				<div class="specimg"><img src="./img/rc4228h_speck.png" /></div>
+				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
+					  ■・・・・・・・・・・・・....・・・<br>
+					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+
+			</div><!------------------class="NEBF75 sp" end------------------------>
+			<div class="mkspace"></div>
+
+			<div class="NAS900sp" id="NE100JPsp">
+				<img src="./img/machine_background_smartphone.png" />
+				<h1>NAS900T</h1>
+				<h2>ゴミ吸引選別ユニット選別ユニット</h2>
+				<div class="video">
+					<h5>製品動画</h5>
+				</div>
+
+				<div class="ytube">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+
+				<div class="cata">
+					<h5>カタログ</h5>
+				</div>
+				<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<div class="pic"><img src="./img/NAS900T_01.png" /></div>
+				<!--<div class="pics">
+				
+			</div>-->
+				<div class="spec">
+					<h5>仕様表</h5>
+				</div>
+				<div class="specimg"><img src="./img/nas900t_speck.png" /></div>
+				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
+					  ■・・・・・・・・・・・・....・・・<br>
+					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+
+			</div><!------------------class="NE100JP sp" end------------------------>
+
+			<div class="mkspace"></div>
+
 			<div class="NE100JBsp" id="BH70sp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>BH70</h1>
@@ -252,73 +391,7 @@
 					  ■・・・・・・・・・・・・....・・・<br>
 					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
 
-			</div><!------------------class="BH70 sp" end------------------------>
-
-			<div class="mkspace"></div>
-
-			<div class="NE200HBJsp" id="RC4228Hsp">
-				<img src="./img/machine_background_smartphone.png" />
-				<h1>RC4228H</h1>
-				<h2>ジョークラッシャー</h2>
-				<div class="video">
-					<h5>製品動画</h5>
-				</div>
-
-				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
-
-				<div class="cata">
-					<h5>カタログ</h5>
-				</div>
-				<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/RC4228_斜め.png" /></div>
-				<div class="pics">
-					<div class="pics1"><img src="./img/RC4228_左面.jpg" /></div>
-					<div class="pics2"><img src="./img/RC4228_右面.jpg" /></div>
-					<div class="pics3"><img src="./img/RC4228_前面.jpg" /></div>
-					<div class="pics4"><img src="./img/RC4228_背面.jpg" /></div>
-				</div>
-				<div class="spec">
-					<h5>仕様表</h5>
-				</div>
-				<div class="specimg"><img src="./img/rc4228h_speck.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
-
-			</div><!------------------class="RC4228 sp" end------------------------>
-			<div class="mkspace"></div>
-
-			<div class="NAS900sp" id="NAS900sp">
-				<img src="./img/machine_background_smartphone.png" />
-				<h1>NAS900T</h1>
-				<h2>ゴミ吸引選別ユニット選別ユニット</h2>
-				<div class="video">
-					<h5>製品動画</h5>
-				</div>
-
-				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-				</div>
-
-				<div class="cata">
-					<h5>カタログ</h5>
-				</div>
-				<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/NAS900T_01.png" /></div>
-				<!--<div class="pics">
-				
-			</div>-->
-				<div class="spec">
-					<h5>仕様表</h5>
-				</div>
-				<div class="specimg"><img src="./img/nas900t_speck.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
-
-			</div><!------------------class="NAS900 sp" end------------------------>
+			</div><!------------------class="NE200IS sp" end------------------------>
 
 			<div class="mkspace"></div>
 
