@@ -1,19 +1,21 @@
-.NAS900 {
+.BH70 {
   position: relative;
   width: 100%;
   max-width: 1250px;
   margin: auto;
   height: 100vw;
   max-height: 600px;
+
 }
 
-.NAS900 img {
+.BH70 img {
   width: 100%;
   height: 100%;
   transition: all 0.3s;
+
 }
 
-.NAS900 .sizeofcontent {
+.BH70 .sizeofcontent {
   width: 100%;
   max-width: 918px;
   height: 100%;
@@ -23,21 +25,23 @@
   transform: translateX(-50%);
 }
 
-.NAS900 h1 {
+.BH70 h1 {
   position: absolute;
   top: 5%;
   left: 1%;
+
   font-size: 32px;
 }
 
-.NAS900 h2 {
+.BH70 h2 {
   position: absolute;
   top: 12%;
   left: 1%;
+
   font-size: 20px;
 }
 
-.NAS900 .ytube iframe {
+.BH70 .ytube iframe {
   position: absolute;
   top: 38%;
   left: 1%;
@@ -46,16 +50,17 @@
   height: 33%;
 }
 
-.NAS900 .ytube a {
+.BH70 .ytube a {
   position: absolute;
   top: 38%;
   left: 1%;
   width: 40%;
   min-width: 250px;
   height: 33%;
+
 }
 
-.NAS900 .video h5 {
+.BH70 .video h5 {
   position: absolute;
   top: 25%;
   left: 1%;
@@ -63,7 +68,7 @@
   font-size: 20px;
 }
 
-.NAS900 .cata h5 {
+.BH70 .cata h5 {
   position: absolute;
   top: 80%;
   left: 1%;
@@ -71,7 +76,7 @@
   font-size: 20px;
 }
 
-.NAS900 .download a {
+.BH70 .download a {
   position: absolute;
   top: 85%;
   left: 1%;
@@ -79,7 +84,7 @@
   font-size: 20px;
 }
 
-.NAS900 .pic {
+.BH70 .pic {
   position: absolute;
   top: 15%;
   left: 45%;
@@ -88,13 +93,13 @@
 
 }
 
-.NAS900 .pics .img {
+.BH70 .pics .img {
   width: 100%;
   height: 100%;
 
 }
 
-.NAS900 .spec h5 {
+.BH70 .spec h5 {
   position: absolute;
   top: 60%;
   left: 45%;
@@ -102,12 +107,12 @@
   font-size: 20px;
 }
 
-.NAS900 .specimg .img {
+.BH70 .specimg .img {
   width: 100%;
   height: 100%;
 }
 
-.NAS900 .specimg {
+.BH70 .specimg {
   position: absolute;
   top: 72%;
   left: 45%;
@@ -115,7 +120,7 @@
   height: 25%;
 }
 
-.NAS900 .caution p {
+.BH70 .caution p {
   position: absolute;
   top: 88%;
   left: 45%;
@@ -124,43 +129,47 @@
 }
 
 /*スマホ用css*/
-
-.NAS900sp {
+.BH70sp {
   position: relative;
   width: 100%;
   margin: auto;
   height: 100%;
   min-height: 800px;
+
 }
 
-.NAS900sp img {
+.BH70sp img {
   width: 100%;
   height: 100%;
+
 }
 
-.NAS900sp h1 {
+.BH70sp h1 {
   position: absolute;
   top: -0.5%;
   left: 3%;
+
   font-size: 30px;
 }
 
-.NAS900sp h2 {
+.BH70sp h2 {
   position: absolute;
   top: 2.5%;
   left: 3%;
+
   font-size: 16px;
 }
 
-.NAS900sp .ytube iframe {
+.BH70sp .ytube iframe {
   position: absolute;
   top: 9%;
   width: 94%;
   height: 30%;
   left: 3%;
+
 }
 
-.NAS900sp .video h5 {
+.BH70sp .video h5 {
   position: absolute;
   top: 4%;
   left: 3%;
@@ -168,7 +177,7 @@
   font-size: 20px;
 }
 
-.NAS900sp .cata h5 {
+.BH70sp .cata h5 {
   position: absolute;
   top: 37%;
   left: 3%;
@@ -176,7 +185,8 @@
   font-size: 20px;
 }
 
-.NAS900sp .download a {
+
+.BH70sp .download a {
   position: absolute;
   top: 42%;
   left: 3%;
@@ -184,7 +194,7 @@
   font-size: 20px;
 }
 
-.NAS900sp .pic {
+.BH70sp .pic {
   position: absolute;
   top: 50%;
   width: 94%;
@@ -192,7 +202,7 @@
   left: 3%;
 }
 
-.NAS900sp .spec h5 {
+.BH70sp .spec h5 {
   position: absolute;
   top: 88%;
   left: 3%;
@@ -200,14 +210,14 @@
   font-size: 20px;
 }
 
-.NAS900sp .specimg {
+.BH70sp .specimg {
   position: absolute;
   top: 92%;
   left: 3%;
   width: 94%;
 }
 
-.NAS900sp .caution p {
+.BH70sp .caution p {
   position: absolute;
   top: 75%;
   left: 3%;
