@@ -5,14 +5,12 @@
   margin: auto;
   height: 100vw;
   max-height: 600px;
-
 }
 
 .BH70 img {
   width: 100%;
   height: 100%;
   transition: all 0.3s;
-
 }
 
 .BH70 .sizeofcontent {
@@ -70,11 +68,12 @@
 
 .BH70 .cata h5 {
   position: absolute;
-  top: 80%;
+  top: 72%;
   left: 1%;
 
   font-size: 20px;
 }
+
 
 .BH70 .download a {
   position: absolute;
@@ -86,17 +85,68 @@
 
 .BH70 .pic {
   position: absolute;
-  top: 15%;
+  top: 7%;
   left: 45%;
   width: 55%;
   height: 42%;
+}
 
+.BH70 .pics {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 55%;
+  height: 12%;
+  background-color: #333333;
+  text-align: center;
+}
+
+.BH70 .pics .pics1 {
+  position: absolute;
+  margin: 2px;
+  width: 25%;
+}
+
+.BH70 .pics .pics1 img:hover {
+  transform: scale(1.2, 1.2);
+}
+
+.BH70 .pics .pics2 {
+  position: absolute;
+  margin: 2px;
+  width: 25%;
+  left: 25%;
+}
+
+.BH70 .pics .pics2 img:hover {
+  transform: scale(1.2, 1.2);
+}
+
+.BH70 .pics .pics3 {
+  position: absolute;
+  margin: 2px;
+  width: 25%;
+  left: 50%;
+}
+
+.BH70 .pics .pics3 img:hover {
+  transform: scale(1.2, 1.2);
+}
+
+.BH70 .pics .pics4 {
+  position: absolute;
+  margin: 2px;
+  width: 25%;
+  left: 75%;
+}
+
+.BH70 .pics .pics4 img:hover {
+  transform: scale(1.2, 1.2);
 }
 
 .BH70 .pics .img {
   width: 100%;
   height: 100%;
-
 }
 
 .BH70 .spec h5 {
@@ -129,19 +179,18 @@
 }
 
 /*スマホ用css*/
+
 .BH70sp {
   position: relative;
   width: 100%;
   margin: auto;
-  height: 100%;
-  min-height: 800px;
-
+  height: 500vw;
+  min-height: 1800px;
 }
 
 .BH70sp img {
   width: 100%;
   height: 100%;
-
 }
 
 .BH70sp h1 {
@@ -154,7 +203,7 @@
 
 .BH70sp h2 {
   position: absolute;
-  top: 2.5%;
+  top: 1%;
   left: 3%;
 
   font-size: 16px;
@@ -162,16 +211,15 @@
 
 .BH70sp .ytube iframe {
   position: absolute;
-  top: 9%;
+  top: 5%;
   width: 94%;
-  height: 30%;
+  height: 15%;
   left: 3%;
-
 }
 
 .BH70sp .video h5 {
   position: absolute;
-  top: 4%;
+  top: 2%;
   left: 3%;
 
   font-size: 20px;
@@ -179,16 +227,15 @@
 
 .BH70sp .cata h5 {
   position: absolute;
-  top: 37%;
+  top: 20%;
   left: 3%;
 
   font-size: 20px;
 }
 
-
 .BH70sp .download a {
   position: absolute;
-  top: 42%;
+  top: 23%;
   left: 3%;
 
   font-size: 20px;
@@ -196,23 +243,70 @@
 
 .BH70sp .pic {
   position: absolute;
-  top: 50%;
+  top: 27%;
   width: 94%;
-  height: 24.75%;
+  height: 11%;
   left: 3%;
+}
+
+.BH70sp .pics {
+  position: absolute;
+  top: 42%;
+  left: 2%;
+  width: 96%;
+  height: 43%;
+  background-color: #333333;
+  text-align: center;
+
+}
+
+.BH70sp .pics .pics1 {
+  position: absolute;
+  top: 1%;
+  width: 98%;
+  left: 1%;
+  max-height: 24%;
+}
+
+.BH70sp .pics .pics2 {
+  position: absolute;
+  width: 98%;
+  left: 1%;
+  top: 25.5%;
+  max-height: 24%;
+}
+
+.BH70sp .pics .pics3 {
+  position: absolute;
+  width: 98%;
+  left: 1%;
+  top: 50%;
+  max-height: 24%;
+}
+
+.BH70sp .pics .pics4 {
+  position: absolute;
+  width: 98%;
+  left: 1%;
+  top: 74.5%;
+  max-height: 24%;
+}
+
+.BH70sp .pics .img {
+  width: 100%;
+  height: 100%;
 }
 
 .BH70sp .spec h5 {
   position: absolute;
-  top: 88%;
+  top: 85%;
   left: 3%;
-
   font-size: 20px;
 }
 
 .BH70sp .specimg {
   position: absolute;
-  top: 92%;
+  top: 88%;
   left: 3%;
   width: 94%;
 }
@@ -221,6 +315,5 @@
   position: absolute;
   top: 75%;
   left: 3%;
-
   font-size: 12px;
 }
