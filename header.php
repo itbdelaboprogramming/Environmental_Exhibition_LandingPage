@@ -2,7 +2,8 @@
   <div class="headerWidth">
 
     <div class="logos">
-      <a href="https://nakayamairon.com/Exhibition2024/"><span><img src="./img/Nakayama logo_red_500x100.png" /></span></a>
+      <!-- <a href="https://nakayamairon.com/Exhibition2024/"><span><img src="./img/Nakayama logo_red_500x100.png" /></span></a> -->
+      <a><span><img src="./img/Nakayama logo_red_500x100.png" /></span></a>
     </div>
 
     <div class="menu pc">

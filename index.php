@@ -68,7 +68,7 @@
 			<h1>Product</h1>
 		</div>
 		<div class="Productmenu pc">
-			<div class="NE100JB" id="NE200IS">
+			<div class="NE200IS" id="NE200IS">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -98,7 +98,7 @@
 					<div class="spec">
 						<h5>仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/bh70_speck.jpg" /></div>
+					<div class="specimg"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
@@ -106,7 +106,7 @@
 
 			<div class="mkspace"></div>
 
-			<div class="NE200HBJ" id="NEBF75">
+			<div class="NEBF75" id="NEBF75">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -137,7 +137,7 @@
 					<div class="spec">
 						<h5>仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/rc4228h_speck.png" /></div>
+					<div class="specimg"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
@@ -145,7 +145,7 @@
 
 			<div class="mkspace"></div>
 
-			<div class="NAS900" id="NE100JP">
+			<div class="NE100JP" id="NE100JP">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -180,7 +180,7 @@
 
 			<div class="mkspace"></div>
 
-			<div class="NE100JB" id="BH70">
+			<div class="BH70" id="BH70">
 				<img src="./img/machine_background.png" />
 
 				<div class="sizeofcontent">
@@ -210,7 +210,7 @@
 					<div class="spec">
 						<h5>仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/bh70_speck.jpg" /></div>
+					<div class="specimg"><img data-lity src="./img/bh70_specification.png" style="height: 115px;"/></div>
 					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
@@ -250,16 +250,15 @@
 					<div class="spec">
 						<h5>仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/MSD700_shiyo.png" /></div>
-					<!-----<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。<br>
-					  ■...........</p></div>----->
+					<div class="specimg"><img data-lity src="./img/msd700_specification.png" style="height: 115px;"/></div>
+					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
 				</div>
 			</div><!------------------class="MSD700 pc" end------------------------>
 		</div><!--------------------------------------------------------------------------------------class="Productmenu pc" end-------------------------------------------------------------------------------------------------------------------->
 
 		<div class="Productmenusp sp">
-			<div class="NE100JBsp" id="NE200ISsp">
+			<div class="NE200ISsp" id="NE200ISsp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>BH70</h1>
 				<h2>油圧ショベル用　多様アタッチメント</h2>
@@ -294,7 +293,7 @@
 
 			<div class="mkspace"></div>
 
-			<div class="NE200HBJsp" id="NEBF75sp">
+			<div class="NEBF75sp" id="NEBF75sp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>RC4228H</h1>
 				<h2>ジョークラッシャー</h2>
@@ -328,9 +327,9 @@
 			</div><!------------------class="NEBF75 sp" end------------------------>
 			<div class="mkspace"></div>
 
-			<div class="NAS900sp" id="NE100JPsp">
+			<div class="NE100JPsp" id="NE100JPsp">
 				<img src="./img/machine_background_smartphone.png" />
-				<h1>NAS900T</h1>
+				<h1>NE100JP</h1>
 				<h2>ゴミ吸引選別ユニット選別ユニット</h2>
 				<div class="video">
 					<h5>製品動画</h5>
@@ -345,9 +344,6 @@
 				</div>
 				<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
 				<div class="pic"><img src="./img/NAS900T_01.png" /></div>
-				<!--<div class="pics">
-				
-			</div>-->
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
@@ -360,7 +356,7 @@
 
 			<div class="mkspace"></div>
 
-			<div class="NE100JBsp" id="BH70sp">
+			<div class="BH70sp" id="BH70sp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>BH70</h1>
 				<h2>油圧ショベル用　多様アタッチメント</h2>
@@ -386,12 +382,12 @@
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/bh70_speck.jpg" /></div>
+				<div class="specimg"><img src="./img/bh70_specification.png" /></div>
 				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
 					  ■・・・・・・・・・・・・....・・・<br>
 					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
 
-			</div><!------------------class="NE200IS sp" end------------------------>
+			</div><!------------------class="BH70 sp" end------------------------>
 
 			<div class="mkspace"></div>
 
@@ -421,7 +417,7 @@
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/MSD700_shiyo.png" /></div>
+				<div class="specimg"><img src="./img/msd700_specification.png" /></div>
 				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
 					  ■・・・・・・・・・・・・....・・・<br>
 					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
