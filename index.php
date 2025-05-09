@@ -28,7 +28,7 @@
 	<div class="ProductListsp2">
 		<hr>
 		<div class="list1sp"><a href="#NE200ISsp">
-				<div class="list1sptext"><span>NE200IS</span><br>インパクトクラッシャ/ スクリーン</div>
+				<div class="list1sptext"><span>NE200IS</span><br>スクリーン搭載​/自走式インパクトクラッシャ</div>
 			</a></div>
 		<hr>
 		<div class="list2sp"><a href="#NEBF75sp">
@@ -65,7 +65,7 @@
 <div class="Product">
 	<div class="Product2">
 		<div class="Producttitle">
-			<h1>Product</h1>
+			<h1>製品</h1>
 		</div>
 		<div class="Productmenu pc">
 			<div class="NE200IS" id="NE200IS">
@@ -88,19 +88,47 @@
 						<h5>カタログ</h5>
 					</div>
 					<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-					<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
+					<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/BH70(色付き_左面_2).jpg" /></div>
 						<div class="pics2"><img data-lity src="./img/BH70(色付き_右面_2).jpg" /></div>
 						<div class="pics3"><img data-lity src="./img/BH70(色付き_背面_2).jpg" /></div>
 						<div class="pics4"><img data-lity src="./img/BH70(色付き_上面_2).jpg" /></div>
-					</div>
+					</div> -->
+					<!-- after: pic → swiper-container -->
+					<div class="pic swiper-container" style="top: 60px;">
+						<div class="swiper-wrapper">
+							<?php
+							$ne100jpImages = [
+								'./img/P1002938.jpg',
+								'./img/P1002837.jpg',
+								'./img/P1003023.jpg',
+								'./img/P1003078.jpg',
+							];
+							foreach ($ne100jpImages as $img): ?>
+								<div class="swiper-slide">
+									<a href="<?= $img ?>" data-lity>
+										<img src="<?= $img ?>" alt="NE100JP view" />
+									</a>
+								</div>
+							<?php endforeach; ?>
+						</div><!-- /.swiper-wrapper -->
+
+						<!-- navigation arrows -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- pagination dots -->
+						<div class="swiper-pagination"></div>
+					</div><!-- /.pic.swiper-container -->
 					<div class="spec">
-						<h5>仕様表</h5>
+						<h5 style="top: 320px;">仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
-					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div> -->
+					<div class="specimg" style="top: 402px;"><img src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
+					<div class="caution">
+						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+					</div>
 				</div>
 			</div><!------------------class="NE200IS pc" end------------------------>
 
@@ -127,19 +155,47 @@
 						<h5>カタログ</h5>
 					</div>
 					<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-					<div class="pic"><img src="./img/RC4228_斜め.png" /></div>
-					<div class="pics">
+					<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
+					<!-- <div class="pics">
 						<div class="pics1"><img data-lity src="./img/RC4228_左面.jpg" /></div>
 						<div class="pics2"><img data-lity src="./img/RC4228_右面.jpg" /></div>
 						<div class="pics3"><img data-lity src="./img/RC4228_前面.jpg" /></div>
 						<div class="pics4"><img data-lity src="./img/RC4228_背面.jpg" /></div>
-					</div>
+					</div> -->
+					<!-- after: pic → swiper-container -->
+					<div class="pic swiper-container" style="top: 60px;">
+						<div class="swiper-wrapper">
+							<?php
+							$ne100jpImages = [
+								'./img/P1002938.jpg',
+								'./img/P1002837.jpg',
+								'./img/P1003023.jpg',
+								'./img/P1003078.jpg',
+							];
+							foreach ($ne100jpImages as $img): ?>
+								<div class="swiper-slide">
+									<a href="<?= $img ?>" data-lity>
+										<img src="<?= $img ?>" alt="NE100JP view" />
+									</a>
+								</div>
+							<?php endforeach; ?>
+						</div><!-- /.swiper-wrapper -->
+
+						<!-- navigation arrows -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- pagination dots -->
+						<div class="swiper-pagination"></div>
+					</div><!-- /.pic.swiper-container -->
 					<div class="spec">
-						<h5>仕様表</h5>
+						<h5 style="top: 320px;">仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
-					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div> -->
+					<div class="specimg" style="top: 402px;"><img src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
+					<div class="caution">
+						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+					</div>
 				</div>
 			</div><!------------------class="NEBF75 pc" end------------------------>
 
@@ -160,21 +216,50 @@
 					<div class="ytube">
 						<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>​
-							<a href="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" data-lity></a>
+						<a href="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" data-lity></a>
 					</div>
 
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
 					<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-					<div class="pic"><img src="./img/P1002938.jpg" /></div>
+
+					<!-- <div class="pic"><img src="./img/P1002938.jpg" /></div> -->
+					<!-- after: pic → swiper-container -->
+					<div class="pic swiper-container" style="top: 60px;">
+						<div class="swiper-wrapper">
+							<?php
+							$ne100jpImages = [
+								'./img/P1002938.jpg',
+								'./img/P1002837.jpg',
+								'./img/P1003023.jpg',
+								'./img/P1003078.jpg',
+							];
+							foreach ($ne100jpImages as $img): ?>
+								<div class="swiper-slide">
+									<a href="<?= $img ?>" data-lity>
+										<img src="<?= $img ?>" alt="NE100JP view" />
+									</a>
+								</div>
+							<?php endforeach; ?>
+						</div><!-- /.swiper-wrapper -->
+
+						<!-- navigation arrows -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- pagination dots -->
+						<div class="swiper-pagination"></div>
+					</div><!-- /.pic.swiper-container -->
 
 					<div class="spec">
-						<h5>仕様表</h5>
+						<h5 style="top: 320px;">仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
-					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div> -->
+					<div class="specimg" style="top: 402px;"><img src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
+					<div class="caution">
+						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+					</div>
 				</div>
 			</div><!------------------class="NE100JP pc" end------------------------>
 
@@ -200,19 +285,47 @@
 						<h5>カタログ</h5>
 					</div>
 					<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-					<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
+					<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/BH70(色付き_左面_2).jpg" /></div>
 						<div class="pics2"><img data-lity src="./img/BH70(色付き_右面_2).jpg" /></div>
 						<div class="pics3"><img data-lity src="./img/BH70(色付き_背面_2).jpg" /></div>
 						<div class="pics4"><img data-lity src="./img/BH70(色付き_上面_2).jpg" /></div>
-					</div>
+					</div> -->
+					<!-- after: pic → swiper-container -->
+					<div class="pic swiper-container" style="top: 60px;">
+						<div class="swiper-wrapper">
+							<?php
+							$ne100jpImages = [
+								'./img/P1002938.jpg',
+								'./img/P1002837.jpg',
+								'./img/P1003023.jpg',
+								'./img/P1003078.jpg',
+							];
+							foreach ($ne100jpImages as $img): ?>
+								<div class="swiper-slide">
+									<a href="<?= $img ?>" data-lity>
+										<img src="<?= $img ?>" alt="NE100JP view" />
+									</a>
+								</div>
+							<?php endforeach; ?>
+						</div><!-- /.swiper-wrapper -->
+
+						<!-- navigation arrows -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- pagination dots -->
+						<div class="swiper-pagination"></div>
+					</div><!-- /.pic.swiper-container -->
 					<div class="spec">
-						<h5>仕様表</h5>
+						<h5 style="top: 320px;">仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/bh70_specification.png" style="height: 115px;"/></div>
-					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/bh70_specification.png" style="height: 115px;" /></div> -->
+					<div class="specimg" style="top: 402px;"><img src="./img/bh70_specification.png" style="height: 115px;" /></div>
+					<div class="caution">
+						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+					</div>
 				</div>
 			</div><!------------------class="BH70 pc" end------------------------>
 
@@ -240,19 +353,46 @@
 						<h5>カタログ</h5>
 					</div>
 					<div class="download"><a href="./catalog/MSD700_ja_ver.2.0.1_20230515.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-					<div class="pic"><img src="./img/MSD700_斜め.jpg" /></div>
+					<!-- <div class="pic"><img src="./img/MSD700_斜め.jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/MSD700_左面.jpg" /></div>
 						<div class="pics2"><img data-lity src="./img/MSD700_右面.jpg" /></div>
 						<div class="pics3"><img data-lity src="./img/MSD700_前面.jpg" /></div>
 						<div class="pics4"><img data-lity src="./img/MSD700_背面.jpg" /></div>
-					</div>
+					</div> -->
+					<!-- after: pic → swiper-container -->
+					<div class="pic swiper-container" style="top: 60px;">
+						<div class="swiper-wrapper">
+							<?php
+							$ne100jpImages = [
+								'./img/MSD700_1.1.jpg',
+								'./img/MSD700_2.png',
+								'./img/MSD700_3.png',
+							];
+							foreach ($ne100jpImages as $img): ?>
+								<div class="swiper-slide">
+									<a href="<?= $img ?>" data-lity>
+										<img src="<?= $img ?>" alt="MSD700 view" />
+									</a>
+								</div>
+							<?php endforeach; ?>
+						</div><!-- /.swiper-wrapper -->
+
+						<!-- navigation arrows -->
+						<div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div>
+						<!-- pagination dots -->
+						<div class="swiper-pagination"></div>
+					</div><!-- /.pic.swiper-container -->
 					<div class="spec">
-						<h5>仕様表</h5>
+						<h5 style="top: 320px;">仕様表</h5>
 					</div>
-					<div class="specimg"><img data-lity src="./img/msd700_specification.png" style="height: 115px;"/></div>
-					<div class="caution"><p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
-					  ■本機の仕様・寸法は改良のため予告なく変更することがあります。</p></div>
+					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/msd700_specification.png" style="height: 115px;" /></div> -->
+					<div class="specimg" style="top: 402px;"><img src="./img/msd700_specification.png" style="height: 115px;" /></div>
+					<div class="caution">
+						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+					</div>
 				</div>
 			</div><!------------------class="MSD700 pc" end------------------------>
 		</div><!--------------------------------------------------------------------------------------class="Productmenu pc" end-------------------------------------------------------------------------------------------------------------------->
@@ -260,8 +400,8 @@
 		<div class="Productmenusp sp">
 			<div class="NE200ISsp" id="NE200ISsp">
 				<img src="./img/machine_background_smartphone.png" />
-				<h1>BH70</h1>
-				<h2>油圧ショベル用　多様アタッチメント</h2>
+				<h1>NE200IS</h1>
+				<h2>スクリーン搭載/自走式インパクトクラッシャ</h2>
 				<div class="video">
 					<h5>製品動画</h5>
 				</div>
@@ -274,20 +414,35 @@
 					<h5>カタログ</h5>
 				</div>
 				<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
-				<div class="pics">
-					<div class="pics1"><img src="./img/BH70(色付き_右面_2).jpg" /></div>
-					<div class="pics2"><img src="./img/BH70(色付き_左面_2).jpg" /></div>
-					<div class="pics3"><img src="./img/BH70(色付き_上面_2).jpg" /></div>
-					<div class="pics4"><img src="./img/BH70(色付き_背面_2).jpg" /></div>
+				<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div> -->
+				<div class="pic swiper-container">
+					<div class="swiper-wrapper">
+						<?php
+						$images = [
+							'./img/P1002938.jpg',
+							'./img/P1002837.jpg',
+							'./img/P1003023.jpg',
+							'./img/P1003078.jpg',
+						];
+						foreach ($images as $img): ?>
+							<div class="swiper-slide">
+								<img src="<?= $img ?>" alt="NE200IS view" />
+							</div>
+						<?php endforeach; ?>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/bh70_speck.jpg" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+				<div class="specimg"><img src="./img/ne100jp_specification.png" /></div>
+				<div class="caution">
+					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+				</div>
 
 			</div><!------------------class="NE200IS sp" end------------------------>
 
@@ -295,8 +450,8 @@
 
 			<div class="NEBF75sp" id="NEBF75sp">
 				<img src="./img/machine_background_smartphone.png" />
-				<h1>RC4228H</h1>
-				<h2>ジョークラッシャー</h2>
+				<h1>NEBF75</h1>
+				<h2>自走式ベルトフィーダ</h2>
 				<div class="video">
 					<h5>製品動画</h5>
 				</div>
@@ -309,20 +464,36 @@
 					<h5>カタログ</h5>
 				</div>
 				<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/RC4228_斜め.png" /></div>
-				<div class="pics">
-					<div class="pics1"><img src="./img/RC4228_左面.jpg" /></div>
-					<div class="pics2"><img src="./img/RC4228_右面.jpg" /></div>
-					<div class="pics3"><img src="./img/RC4228_前面.jpg" /></div>
-					<div class="pics4"><img src="./img/RC4228_背面.jpg" /></div>
+				<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
+
+				<div class="pic swiper-container">
+					<div class="swiper-wrapper">
+						<?php
+						$images = [
+							'./img/P1002938.jpg',
+							'./img/P1002837.jpg',
+							'./img/P1003023.jpg',
+							'./img/P1003078.jpg',
+						];
+						foreach ($images as $img): ?>
+							<div class="swiper-slide">
+								<img src="<?= $img ?>" alt="NEBF75 view" />
+							</div>
+						<?php endforeach; ?>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
 				<div class="specimg"><img src="./img/rc4228h_speck.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+				<div class="caution">
+					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+				</div>
 
 			</div><!------------------class="NEBF75 sp" end------------------------>
 			<div class="mkspace"></div>
@@ -343,14 +514,36 @@
 					<h5>カタログ</h5>
 				</div>
 				<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/NAS900T_01.png" /></div>
+				<!-- <div class="pic"><img src="./img/NAS900T_01.png" /></div> -->
+
+				<div class="pic swiper-container">
+					<div class="swiper-wrapper">
+						<?php
+						$images = [
+							'./img/P1002938.jpg',
+							'./img/P1002837.jpg',
+							'./img/P1003023.jpg',
+							'./img/P1003078.jpg',
+						];
+						foreach ($images as $img): ?>
+							<div class="swiper-slide">
+								<img src="<?= $img ?>" alt="NE100JP view" />
+							</div>
+						<?php endforeach; ?>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-pagination"></div>
+				</div>
+
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
 				<div class="specimg"><img src="./img/nas900t_speck.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+				<div class="caution">
+					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+				</div>
 
 			</div><!------------------class="NE100JP sp" end------------------------>
 
@@ -372,20 +565,36 @@
 					<h5>カタログ</h5>
 				</div>
 				<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
-				<div class="pics">
-					<div class="pics1"><img src="./img/BH70(色付き_右面_2).jpg" /></div>
-					<div class="pics2"><img src="./img/BH70(色付き_左面_2).jpg" /></div>
-					<div class="pics3"><img src="./img/BH70(色付き_上面_2).jpg" /></div>
-					<div class="pics4"><img src="./img/BH70(色付き_背面_2).jpg" /></div>
+				<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div> -->
+
+				<div class="pic swiper-container">
+					<div class="swiper-wrapper">
+						<?php
+						$images = [
+							'./img/P1002938.jpg',
+							'./img/P1002837.jpg',
+							'./img/P1003023.jpg',
+							'./img/P1003078.jpg',
+						];
+						foreach ($images as $img): ?>
+							<div class="swiper-slide">
+								<img src="<?= $img ?>" alt="BH70 view" />
+							</div>
+						<?php endforeach; ?>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
 				<div class="specimg"><img src="./img/bh70_specification.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+				<div class="caution">
+					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+				</div>
 
 			</div><!------------------class="BH70 sp" end------------------------>
 
@@ -407,20 +616,35 @@
 					<h5>カタログ</h5>
 				</div>
 				<div class="download"><a href="./catalog/MSD700_ja_ver.2.0.1_20230515.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
-				<div class="pic"><img src="./img/MSD700_斜め.jpg" /></div>
-				<div class="pics">
-					<div class="pics1"><img src="./img/MSD700_左面.jpg" /></div>
-					<div class="pics2"><img src="./img/MSD700_右面.jpg" /></div>
-					<div class="pics3"><img src="./img/MSD700_前面.jpg" /></div>
-					<div class="pics4"><img src="./img/MSD700_背面.jpg" /></div>
+				<!-- <div class="pic"><img src="./img/MSD700_斜め.jpg" /></div> -->
+
+				<div class="pic swiper-container">
+					<div class="swiper-wrapper">
+						<?php
+						$images = [
+							'./img/MSD700_1.1.jpg',
+							'./img/MSD700_2.png',
+							'./img/MSD700_3.png',
+						];
+						foreach ($images as $img): ?>
+							<div class="swiper-slide">
+								<img src="<?= $img ?>" alt="MSD700 view" />
+							</div>
+						<?php endforeach; ?>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+					<div class="swiper-pagination"></div>
 				</div>
+
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
 				<div class="specimg"><img src="./img/msd700_specification.png" /></div>
-				<!-----<div class="caution"><p>■・・・・・・・・・・・・・・・<br>
-					  ■・・・・・・・・・・・・....・・・<br>
-					  ■・・・・・・・・・・・・・fgfggxhgd・・</p></div>----->
+				<div class="caution">
+					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
+						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
+				</div>
 
 			</div><!------------------class="MSD700 sp" end------------------------>
 

@@ -1,0 +1,161 @@
+/* desktop & mobile shared */
+.pic.swiper-container {
+  position: absolute;
+  top: 7%;
+  left: 45%;
+  width: 55%;
+  height: 42%;
+  overflow: hidden;
+  background: transparent;
+}
+
+.pic.swiper-container .swiper-wrapper {
+  display: flex;
+}
+
+.pic.swiper-container .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pic.swiper-container .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  margin: 0 auto;
+}
+
+.pic.swiper-container .swiper-button-prev,
+.pic.swiper-container .swiper-button-next {
+  color: #fff;
+  opacity: 0.7;
+}
+
+.pic.swiper-container .swiper-pagination {
+  bottom: 4px;
+}
+
+/* bullet colors (applies universally) */
+.swiper-pagination-bullet {
+  background: #ccc;
+}
+
+.swiper-pagination-bullet-active {
+  background: #c70025 !important;
+}
+
+/* desktop & mobile shared */
+.pic.swiper-container {
+  position: absolute;
+  top: 7%;
+  left: 45%;
+  width: 55%;
+  height: 42%;
+  overflow: hidden;
+  background: transparent;
+}
+
+.pic.swiper-container .swiper-wrapper {
+  display: flex;
+}
+
+.pic.swiper-container .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pic.swiper-container .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  margin: 0 auto;
+}
+
+.pic.swiper-container .swiper-button-prev,
+.pic.swiper-container .swiper-button-next {
+  color: #fff;
+  opacity: 0.7;
+}
+
+.pic.swiper-container .swiper-pagination {
+  bottom: 4px;
+}
+
+/* bullet colors (applies universally) */
+.swiper-pagination-bullet {
+  background: #ccc;
+}
+
+.swiper-pagination-bullet-active {
+  background: #c70025 !important;
+}
+
+/* desktop & mobile shared */
+.pic.swiper-container {
+  position: absolute;
+  top: 7%;
+  left: 45%;
+  width: 55%;
+  height: 42%;
+  overflow: hidden;
+  background: transparent;
+}
+
+.pic.swiper-container .swiper-wrapper {
+  display: flex;
+}
+
+.pic.swiper-container .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pic.swiper-container .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  margin: 0 auto;
+}
+
+.pic.swiper-container .swiper-button-prev,
+.pic.swiper-container .swiper-button-next {
+  color: #fff;
+  opacity: 0.7;
+}
+
+.pic.swiper-container .swiper-pagination {
+  bottom: 4px;
+}
+
+/* bullet colors (applies universally) */
+.swiper-pagination-bullet {
+  background: #ccc;
+}
+
+.swiper-pagination-bullet-active {
+  background: #c70025 !important;
+}
+
+/* mobile override */
+@media only screen and (max-width: 750px) {
+  .pic.swiper-container {
+    position: absolute;
+    top:    56%;   /* same as your old .pic top */
+    left:   3%;    /* old .pic left */
+    width:  94%;   /* old .pic width */
+    height: 22%;   /* old .pic height */
+    overflow: hidden;
+    background: transparent;
+  }
+  /* .pic.swiper-container .swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  } */
+}
