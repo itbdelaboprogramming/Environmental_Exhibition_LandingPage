@@ -79,8 +79,9 @@
   position: absolute;
   top: 85%;
   left: 1%;
-
+  width: 40%;
   font-size: 20px;
+  text-align: center;
 }
 
 .NE200IS .pic {
@@ -184,8 +185,8 @@
   position: relative;
   width: 100%;
   margin: auto;
-  height: 500vw;
-  min-height: 1800px;
+  height: 100%;
+  min-height: 800px;
 }
 
 .NE200ISsp img {
@@ -195,125 +196,99 @@
 
 .NE200ISsp h1 {
   position: absolute;
-  top: -0.5%;
+  top: 0%;
   left: 3%;
-
   font-size: 30px;
 }
 
 .NE200ISsp h2 {
   position: absolute;
-  top: 1%;
+  top: 4.5%;
   left: 3%;
-
   font-size: 16px;
 }
 
 .NE200ISsp .ytube iframe {
   position: absolute;
-  top: 5%;
+  top: 13%;
   width: 94%;
-  height: 15%;
+  height: 30%;
   left: 3%;
 }
 
 .NE200ISsp .video h5 {
   position: absolute;
-  top: 2%;
+  top: 6%;
   left: 3%;
-
   font-size: 20px;
 }
 
 .NE200ISsp .cata h5 {
   position: absolute;
-  top: 20%;
+  top: 41%;
   left: 3%;
-
   font-size: 20px;
 }
 
 .NE200ISsp .download a {
   position: absolute;
-  top: 23%;
+  top: 48%;
   left: 3%;
-
   font-size: 20px;
+  width: 94%;
 }
 
 .NE200ISsp .pic {
   position: absolute;
-  top: 27%;
+  top: 56%;
   width: 94%;
-  height: 11%;
+  height: 24.75%;
   left: 3%;
-}
-
-.NE200ISsp .pics {
-  position: absolute;
-  top: 42%;
-  left: 2%;
-  width: 96%;
-  height: 43%;
-  background-color: #333333;
-  text-align: center;
-
-}
-
-.NE200ISsp .pics .pics1 {
-  position: absolute;
-  top: 1%;
-  width: 98%;
-  left: 1%;
-  max-height: 24%;
-}
-
-.NE200ISsp .pics .pics2 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 25.5%;
-  max-height: 24%;
-}
-
-.NE200ISsp .pics .pics3 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 50%;
-  max-height: 24%;
-}
-
-.NE200ISsp .pics .pics4 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 74.5%;
-  max-height: 24%;
-}
-
-.NE200ISsp .pics .img {
-  width: 100%;
-  height: 100%;
 }
 
 .NE200ISsp .spec h5 {
   position: absolute;
-  top: 85%;
+  top: 78%;
   left: 3%;
   font-size: 20px;
 }
 
 .NE200ISsp .specimg {
   position: absolute;
-  top: 88%;
+  top: 85%;
   left: 3%;
   width: 94%;
 }
 
 .NE200ISsp .caution p {
   position: absolute;
-  top: 75%;
+  top: 93%;
   left: 3%;
-  font-size: 12px;
+  font-size: 10px;
+}
+
+/* ————————————————————————————————— */
+/* smartphone override for NE200ISsp */
+/* ————————————————————————————————— */
+@media only screen and (max-width: 750px) {
+
+  /* keep the download container in the same absolute spot */
+  .NE200ISsp .download {
+    position: absolute;
+    top:    48%;
+    left:   3%;
+    width:  94%;
+    /* center its contents horizontally */
+    text-align: center;
+  }
+
+  /* make the button fill its parent */
+  .NE200ISsp .download a.btn-flat {
+    /* position: static;    */
+    /* remove any absolute */
+    display: inline-block;
+    width: 94%;
+    box-sizing: border-box;
+    padding: 0.75rem 0;  /* you can tweak vertical padding */
+  }
 }

@@ -79,7 +79,8 @@
   position: absolute;
   top: 85%;
   left: 1%;
-
+  width: 40%;
+  text-align: center;
   font-size: 20px;
 }
 
@@ -184,8 +185,8 @@
   position: relative;
   width: 100%;
   margin: auto;
-  height: 500vw;
-  min-height: 1800px;
+  height: 100%;
+  min-height: 800px;
 }
 
 .BH70sp img {
@@ -195,125 +196,99 @@
 
 .BH70sp h1 {
   position: absolute;
-  top: -0.5%;
+  top: 0%;
   left: 3%;
-
   font-size: 30px;
 }
 
 .BH70sp h2 {
   position: absolute;
-  top: 1%;
+  top: 4.5%;
   left: 3%;
-
   font-size: 16px;
 }
 
 .BH70sp .ytube iframe {
   position: absolute;
-  top: 5%;
+  top: 13%;
   width: 94%;
-  height: 15%;
+  height: 30%;
   left: 3%;
 }
 
 .BH70sp .video h5 {
   position: absolute;
-  top: 2%;
+  top: 6%;
   left: 3%;
-
   font-size: 20px;
 }
 
 .BH70sp .cata h5 {
   position: absolute;
-  top: 20%;
+  top: 41%;
   left: 3%;
-
   font-size: 20px;
 }
 
 .BH70sp .download a {
   position: absolute;
-  top: 23%;
+  top: 48%;
   left: 3%;
-
+  width: 40%;
   font-size: 20px;
 }
 
 .BH70sp .pic {
   position: absolute;
-  top: 27%;
+  top: 56%;
   width: 94%;
-  height: 11%;
+  height: 24.75%;
   left: 3%;
-}
-
-.BH70sp .pics {
-  position: absolute;
-  top: 42%;
-  left: 2%;
-  width: 96%;
-  height: 43%;
-  background-color: #333333;
-  text-align: center;
-
-}
-
-.BH70sp .pics .pics1 {
-  position: absolute;
-  top: 1%;
-  width: 98%;
-  left: 1%;
-  max-height: 24%;
-}
-
-.BH70sp .pics .pics2 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 25.5%;
-  max-height: 24%;
-}
-
-.BH70sp .pics .pics3 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 50%;
-  max-height: 24%;
-}
-
-.BH70sp .pics .pics4 {
-  position: absolute;
-  width: 98%;
-  left: 1%;
-  top: 74.5%;
-  max-height: 24%;
-}
-
-.BH70sp .pics .img {
-  width: 100%;
-  height: 100%;
 }
 
 .BH70sp .spec h5 {
   position: absolute;
-  top: 85%;
+  top: 78%;
   left: 3%;
   font-size: 20px;
 }
 
 .BH70sp .specimg {
   position: absolute;
-  top: 88%;
+  top: 85%;
   left: 3%;
   width: 94%;
 }
 
 .BH70sp .caution p {
   position: absolute;
-  top: 75%;
+  top: 93%;
   left: 3%;
-  font-size: 12px;
+  font-size: 10px;
+}
+
+/* ————————————————————————————————— */
+/* smartphone override for NE200ISsp */
+/* ————————————————————————————————— */
+@media only screen and (max-width: 750px) {
+
+  /* keep the download container in the same absolute spot */
+  .BH70sp .download {
+    position: absolute;
+    top:    48%;
+    left:   3%;
+    width:  94%;
+    /* center its contents horizontally */
+    text-align: center;
+  }
+
+  /* make the button fill its parent */
+  .BH70sp .download a.btn-flat {
+    /* position: static;    */
+    /* remove any absolute */
+    display: inline-block;
+    width: 94%;
+    box-sizing: border-box;
+    padding: 0.75rem 0;  /* you can tweak vertical padding */
+  }
 }
