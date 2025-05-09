@@ -1,6 +1,54 @@
-#GlobalFooter {
+/* #GlobalFooter {
   color: #000000;
   background-color: #333333;
   height: 50px;
   bottom: 0;
+} */
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  flex-wrap: wrap; 
+}
+
+footer .footer-section {
+  text-align: center;
+  margin: 10px;
+}
+
+.company-logos img {
+  max-width: 150px;
+  height: auto;
+}
+
+.contact-us a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.contact-us a:hover {
+  text-decoration: underline;
+}
+
+.footer-section {
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  footer {
+    flex-direction: column; 
+    text-align: center;
+  }
+  
+  .company-logos,
+  .company,
+  .address,
+  .contact-us,
+  .copyright {
+    margin: 5px 0; 
+  }
 }
