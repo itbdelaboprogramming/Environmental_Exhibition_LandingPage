@@ -80,8 +80,8 @@
 					</div>
 
 					<div class="ytube">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-						<a href="https://youtu.be/IAUZ5w8ca-E?si=HN8rcanyDFhneUBy" data-lity></a>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/03u5sQqJczE?si=hH0jQdZ8HlfFcMuG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<a href="https://youtu.be/03u5sQqJczE?si=ms7f7J32BRbOGRKs" data-lity></a>
 					</div>
 
 					<div class="cata">
@@ -100,10 +100,11 @@
 						<div class="swiper-wrapper">
 							<?php
 							$ne100jpImages = [
-								'./img/P1002938.jpg',
-								'./img/P1002837.jpg',
-								'./img/P1003023.jpg',
-								'./img/P1003078.jpg',
+								'./img/NE200IS_01.png',
+								'./img/NE200IS_02.png',
+								'./img/NE200IS_03.png',
+								'./img/NE200IS_04.png',
+								'./img/NE200IS_05.png',
 							];
 							foreach ($ne100jpImages as $img): ?>
 								<div class="swiper-slide">
@@ -124,7 +125,7 @@
 						<h5 style="top: 320px;">仕様表</h5>
 					</div>
 					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div> -->
-					<div class="specimg" style="top: 402px;"><img src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
+					<div class="specimg" style="top: 402px;"><img src="./img/ne200is_specification.png" style="height: 115px;" /></div>
 					<div class="caution">
 						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
@@ -167,10 +168,10 @@
 						<div class="swiper-wrapper">
 							<?php
 							$ne100jpImages = [
-								'./img/P1002938.jpg',
-								'./img/P1002837.jpg',
-								'./img/P1003023.jpg',
-								'./img/P1003078.jpg',
+								'./img/NEBF75_01.png',
+								'./img/NEBF75_02.png',
+								'./img/NEBF75_03.png',
+								'./img/NEBF75_04.png',
 							];
 							foreach ($ne100jpImages as $img): ?>
 								<div class="swiper-slide">
@@ -191,7 +192,7 @@
 						<h5 style="top: 320px;">仕様表</h5>
 					</div>
 					<!-- <div class="specimg" style="top: 402px;"><img data-lity src="./img/ne100jp_specification.png" style="height: 115px;" /></div> -->
-					<div class="specimg" style="top: 402px;"><img src="./img/ne100jp_specification.png" style="height: 115px;" /></div>
+					<div class="specimg" style="top: 402px;"><img src="./img/nebf75_specification.png" style="height: 115px;" /></div>
 					<div class="caution">
 						<p style="top: 508px;">■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 							■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
@@ -277,8 +278,8 @@
 					</div>
 
 					<div class="ytube">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-						<a href="https://youtu.be/IAUZ5w8ca-E?si=HN8rcanyDFhneUBy" data-lity></a>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/6kn37MORh_Y?si=FXqtTMCZVgdbG9b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<a href="https://youtu.be/6kn37MORh_Y?si=f1YNwgof24pxiiiH" data-lity></a>
 					</div>
 
 					<div class="cata">
@@ -297,10 +298,10 @@
 						<div class="swiper-wrapper">
 							<?php
 							$ne100jpImages = [
-								'./img/P1002938.jpg',
-								'./img/P1002837.jpg',
-								'./img/P1003023.jpg',
-								'./img/P1003078.jpg',
+								'./img/BH70(色付き_左面_2).jpg',
+								'./img/BH70(色付き_右面_2).jpg',
+								'./img/BH70(色付き_背面_2).jpg',
+								'./img/BH70(色付き_上面_2).jpg',
 							];
 							foreach ($ne100jpImages as $img): ?>
 								<div class="swiper-slide">
@@ -407,7 +408,8 @@
 				</div>
 
 				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/03u5sQqJczE?si=hH0jQdZ8HlfFcMuG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 
 				<div class="cata">
@@ -419,10 +421,11 @@
 					<div class="swiper-wrapper">
 						<?php
 						$images = [
-							'./img/P1002938.jpg',
-							'./img/P1002837.jpg',
-							'./img/P1003023.jpg',
-							'./img/P1003078.jpg',
+							'./img/NE200IS_01.png',
+							'./img/NE200IS_02.png',
+							'./img/NE200IS_03.png',
+							'./img/NE200IS_04.png',
+							'./img/NE200IS_05.png',
 						];
 						foreach ($images as $img): ?>
 							<div class="swiper-slide">
@@ -438,7 +441,7 @@
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/ne100jp_specification.png" /></div>
+				<div class="specimg"><img src="./img/ne200is_specification.png" /></div>
 				<div class="caution">
 					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
@@ -470,10 +473,10 @@
 					<div class="swiper-wrapper">
 						<?php
 						$images = [
-							'./img/P1002938.jpg',
-							'./img/P1002837.jpg',
-							'./img/P1003023.jpg',
-							'./img/P1003078.jpg',
+							'./img/NEBF75_01.png',
+							'./img/NEBF75_02.png',
+							'./img/NEBF75_03.png',
+							'./img/NEBF75_04.png',
 						];
 						foreach ($images as $img): ?>
 							<div class="swiper-slide">
@@ -489,7 +492,7 @@
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/rc4228h_speck.png" /></div>
+				<div class="specimg"><img src="./img/nebf75_specification.png" /></div>
 				<div class="caution">
 					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
@@ -501,13 +504,14 @@
 			<div class="NE100JPsp" id="NE100JPsp">
 				<img src="./img/machine_background_smartphone.png" />
 				<h1>NE100JP</h1>
-				<h2>ゴミ吸引選別ユニット選別ユニット</h2>
+				<h2>自走式ジョークラッシャ</h2>
 				<div class="video">
 					<h5>製品動画</h5>
 				</div>
 
 				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 
 				<div class="cata">
@@ -539,7 +543,7 @@
 				<div class="spec">
 					<h5>仕様表</h5>
 				</div>
-				<div class="specimg"><img src="./img/nas900t_speck.png" /></div>
+				<div class="specimg"><img src="./img/ne100jp_specification.png" /></div>
 				<div class="caution">
 					<p>■処理能力は、原料の質、投入塊、粒度により異なります。<br>
 						■本機の仕様・寸法は改良のため予告なく変更することがあります。</p>
@@ -558,7 +562,8 @@
 				</div>
 
 				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+					<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/IAUZ5w8ca-E?si=hZqLn-Ynk9el2-cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/6kn37MORh_Y?si=FXqtTMCZVgdbG9b0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 
 				<div class="cata">
@@ -571,10 +576,10 @@
 					<div class="swiper-wrapper">
 						<?php
 						$images = [
-							'./img/P1002938.jpg',
-							'./img/P1002837.jpg',
-							'./img/P1003023.jpg',
-							'./img/P1003078.jpg',
+							'./img/BH70(色付き_左面_2).jpg',
+							'./img/BH70(色付き_右面_2).jpg',
+							'./img/BH70(色付き_背面_2).jpg',
+							'./img/BH70(色付き_上面_2).jpg',
 						];
 						foreach ($images as $img): ?>
 							<div class="swiper-slide">
