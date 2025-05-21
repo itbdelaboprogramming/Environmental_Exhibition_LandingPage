@@ -87,7 +87,8 @@
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<!-- <div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
+					<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
 					<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/BH70(色付き_左面_2).jpg" /></div>
@@ -155,7 +156,8 @@
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<!-- <div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
+					<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
 					<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
 					<!-- <div class="pics">
 						<div class="pics1"><img data-lity src="./img/RC4228_左面.jpg" /></div>
@@ -223,7 +225,7 @@
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<div class="download"><a href="./catalog/NE100JP_ja_ver.1.00_20250521.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
 
 					<!-- <div class="pic"><img src="./img/P1002938.jpg" /></div> -->
 					<!-- after: pic → swiper-container -->
@@ -298,10 +300,11 @@
 						<div class="swiper-wrapper">
 							<?php
 							$ne100jpImages = [
-								'./img/BH70(色付き_左面_2).jpg',
-								'./img/BH70(色付き_右面_2).jpg',
-								'./img/BH70(色付き_背面_2).jpg',
-								'./img/BH70(色付き_上面_2).jpg',
+								'./img/BH70_1.png',
+								'./img/BH70_2.png',
+								'./img/BH70_3.png',
+								'./img/BH70_4.png',
+								'./img/BH70_5.png',
 							];
 							foreach ($ne100jpImages as $img): ?>
 								<div class="swiper-slide">
@@ -415,7 +418,8 @@
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<!-- <div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
+				<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
 				<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div> -->
 				<div class="pic swiper-container">
 					<div class="swiper-wrapper">
@@ -466,7 +470,8 @@
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<!-- <div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
+				<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
 				<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
 
 				<div class="pic swiper-container">
@@ -517,7 +522,7 @@
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<div class="download"><a href="./catalog/NAS900T_ver1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<div class="download"><a href="./catalog/NE100JP_ja_ver.1.00_20250521.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
 				<!-- <div class="pic"><img src="./img/NAS900T_01.png" /></div> -->
 
 				<div class="pic swiper-container">
@@ -576,10 +581,11 @@
 					<div class="swiper-wrapper">
 						<?php
 						$images = [
-							'./img/BH70(色付き_左面_2).jpg',
-							'./img/BH70(色付き_右面_2).jpg',
-							'./img/BH70(色付き_背面_2).jpg',
-							'./img/BH70(色付き_上面_2).jpg',
+							'./img/BH70_1.png',
+							'./img/BH70_2.png',
+							'./img/BH70_3.png',
+							'./img/BH70_4.png',
+							'./img/BH70_5.png',
 						];
 						foreach ($images as $img): ?>
 							<div class="swiper-slide">
