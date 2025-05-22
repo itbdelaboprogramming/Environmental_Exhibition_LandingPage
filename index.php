@@ -87,8 +87,8 @@
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<!-- <div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
-					<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
+					<div class="download"><a href="./catalog/NE200IS_ja_ver.1.00_20250521.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<!-- <div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div> -->
 					<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/BH70(色付き_左面_2).jpg" /></div>
@@ -149,15 +149,16 @@
 					</div>
 
 					<div class="ytube">
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-						<a href="https://youtu.be/pV8zA_ODnfE?si=Fdv58Axx4SvIwc_x" data-lity></a>
+						<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/bB2J_rDIg5k?si=ro81D-1G4nc7yKCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						<a href="https://youtu.be/bB2J_rDIg5k?si=QxxiXY_So7ARE3r5" data-lity></a>
 					</div>
 
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<!-- <div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
-					<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
+					<div class="download"><a href="./catalog/NEBF75_ja_ver1.00_20250522.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<!-- <div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div> -->
 					<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
 					<!-- <div class="pics">
 						<div class="pics1"><img data-lity src="./img/RC4228_左面.jpg" /></div>
@@ -219,7 +220,7 @@
 					<div class="ytube">
 						<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/cNfBDe6JnGU?si=6fht3CNjt_mVgDeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>​
-						<a href="https://www.youtube.com/embed/7B7nzMlzSuw?si=cSYQhi-wNwk4O2_f" data-lity></a>
+						<a href="https://youtu.be/7B7nzMlzSuw?si=aX-Nsrr6VLzmAm7Z" data-lity></a>
 					</div>
 
 					<div class="cata">
@@ -356,7 +357,7 @@
 					<div class="cata">
 						<h5>カタログ</h5>
 					</div>
-					<div class="download"><a href="./catalog/MSD700_ja_ver.2.0.1_20230515.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+					<div class="download"><a href="./catalog/MSD700_ja_ver.3.0.0_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
 					<!-- <div class="pic"><img src="./img/MSD700_斜め.jpg" /></div>
 					<div class="pics">
 						<div class="pics1"><img data-lity src="./img/MSD700_左面.jpg" /></div>
@@ -418,8 +419,8 @@
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<!-- <div class="download"><a href="./catalog/BH70_ja_ver.1.04_20230823.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
-				<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
+				<div class="download"><a href="./catalog/NE200IS_ja_ver.1.00_20250521.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<!-- <div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div> -->
 				<!-- <div class="pic"><img src="./img/BH70(色付き__2).jpg" /></div> -->
 				<div class="pic swiper-container">
 					<div class="swiper-wrapper">
@@ -464,14 +465,15 @@
 				</div>
 
 				<div class="ytube">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/pV8zA_ODnfE?si=JRHjT5NLLzma2GzV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/bB2J_rDIg5k?si=ro81D-1G4nc7yKCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>			
 				</div>
 
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<!-- <div class="download"><a href="./catalog/RC4228H_b_ja_ver.1.00_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div> -->
-				<div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div>
+				<div class="download"><a href="./catalog/NEBF75_ja_ver1.00_20250522.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<!-- <div class="download"><a href="#" onclick="return false;" class="btn btn-flat"><span>Coming Soon!</span></a></div> -->
 				<!-- <div class="pic"><img src="./img/RC4228_斜め.png" /></div> -->
 
 				<div class="pic swiper-container">
@@ -626,7 +628,7 @@
 				<div class="cata">
 					<h5>カタログ</h5>
 				</div>
-				<div class="download"><a href="./catalog/MSD700_ja_ver.2.0.1_20230515.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
+				<div class="download"><a href="./catalog/MSD700_ja_ver.3.0.0_20240509.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-flat"><span>ダウンロード</span></a></div>
 				<!-- <div class="pic"><img src="./img/MSD700_斜め.jpg" /></div> -->
 
 				<div class="pic swiper-container">
